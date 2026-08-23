@@ -2,7 +2,7 @@
 
 A portable vital sign monitoring system that tracks temperature, heart rate, and respiration rate using low cost sensors. Readings show up on an LCD screen and get pushed to a cloud dashboard in real time. Anyone with the link can check the patient's vitals from their phone.
 
-**Live Dashboard:** [your-project.web.app](https://bme310-monitor.web.app)
+**Live Dashboard:** [monitor.web.app](https://bme310-monitor.web.app)
 
 <p align="center">
   <img src="docs/ecg_demo.png" width="420"/>
