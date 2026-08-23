@@ -1,0 +1,12 @@
+{
+  "name": "vitalsync-bridge",
+  "version": "1.0.0",
+  "description": "Serial to Firebase bridge for VitalSync vital sign monitor",
+  "main": "bridge.js",
+  "scripts": {
+    "start": "node bridge.js"
+  },
+  "dependencies": {
+    "serialport": "^12.0.0"
+  }
+}
